@@ -6,6 +6,8 @@
 
 Повний опис проблеми, цільової аудиторії, продукту та функціональності - у файлі [project-brief.md](./project-brief.md).
 
+Класифікація проєкту - у файлі [project-classification.md](./project-classification.md).
+
 ## Команда проєкту
 
 | Прізвище Ім'я | Роль | GitHub-username |
