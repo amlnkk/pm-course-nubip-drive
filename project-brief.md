@@ -47,8 +47,8 @@
 
 | Ім'я Прізвище | Роль | GitHub-username |
 | --- | --- | --- |
-| Аліна Мельник | Project Manager (Team Lead) | заповнити |
-| Аліна Вознюк | Product Owner | заповнити |
-| Іванна Бусецька | Developer | заповнити |
+| Аліна Мельник | Project Manager (Team Lead) | amlnkk |
+| Аліна Вознюк | Product Owner | alinnavz |
+| Іванна Бусецька | Developer | Ivanka-Busetska |
 | Софія Шкарбан | Designer | Sofiashk |
-| Олександра Бєляєва | Analyst | заповнити |
+| Олександра Бєляєва | Analyst | Ol_bieliaievav |
