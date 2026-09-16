@@ -1,6 +1,6 @@
 # NUBIP DRIVE
 
-<img src="./nubip-drive.png" alt="Лого NUBIP DRIVE" width="200">
+<img src="./nubip-drive.png" alt="Лого NUBIP DRIVE" width="400">
 
 Сервіс попереднього замовлення страв в університетській їдальні НУБіП через QR-код - без черг.
 
