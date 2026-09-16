@@ -10,6 +10,6 @@
 |---|---|---|
 | _Мельник Аліна_ | Project Manager (Team Lead) | _amlnkk_ |
 | _Вознюк Аліна_ | Product Owner | _alinnavz_ |
-| _Бусецька Іванна_ | Developer | _заповнити_ |
+| _Бусецька Іванна_ | Developer | _Ivanka-Busetska_ |
 | _Шкарбан Софія_ | Designer | _Sofiashk_ |
 | _Бєляєва Олександра_ | Analyst | _Ol_bieliaievav_ |
