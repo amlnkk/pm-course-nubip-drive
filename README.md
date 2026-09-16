@@ -8,8 +8,8 @@
 
 | Прізвище Ім'я | Роль | GitHub-username |
 |---|---|---|
-| _Мельник Аліна_ | Project Manager (Team Lead) | _заповнити_ |
-| _Вознюк Аліна_ | Product Owner | _заповнити_ |
+| _Мельник Аліна_ | Project Manager (Team Lead) | _amlnkk_ |
+| _Вознюк Аліна_ | Product Owner | _alinnavz_ |
 | _Бусецька Іванна_ | Developer | _заповнити_ |
 | _Шкарбан Софія_ | Designer | _Sofiashk_ |
-| _Бєляєва Олександра_ | Analyst | _заповнити_ |
+| _Бєляєва Олександра_ | Analyst | _Ol_bieliaievav_ |
