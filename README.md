@@ -8,6 +8,8 @@
 
 Класифікація проєкту - у файлі [project-classification.md](./project-classification.md).
 
+Життєвий цикл проєкту (фази, ворота, діаграма Mermaid) - у файлі [project-lifecycle.md](./project-lifecycle.md).
+
 ## Команда проєкту
 
 | Прізвище Ім'я | Роль | GitHub-username |
