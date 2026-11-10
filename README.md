@@ -10,6 +10,8 @@
 
 Життєвий цикл проєкту (фази, ворота, діаграма Mermaid) - у файлі [project-lifecycle.md](./project-lifecycle.md).
 
+Roadmap проєкту (Timeline: епіки, спринти, залежності) - у [Jira](https://alinamelnik041.atlassian.net/jira/software/projects/NDR/boards/2/timeline).
+
 ## Команда проєкту
 
 | Прізвище Ім'я | Роль | GitHub-username |
