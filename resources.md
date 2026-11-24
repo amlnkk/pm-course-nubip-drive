@@ -117,13 +117,15 @@ FTE = години на тиждень / 40.
 
 ## 2.9. Скріншоти з Jira
 
+
 | № | Що на скріншоті | Файл |
 |:-:|-----------------|------|
-| 1 | List з колонкою Labels (у Backlog цієї версії Jira поле Labels недоступне) | `docs/img/lab6-labels.png` |
-| 2 | Board по Assignee | `docs/img/lab6-workload.png` |
-| 3 | Board по Labels | `docs/img/lab6-areas.png` |
-| 4 | Velocity report | `docs/img/lab6-velocity.png` |
-| 5 | Details → Default assignee | `docs/img/lab6-default-assignee.png` |
+| 1 | List з колонкою Labels (у Backlog цієї версії Jira поле Labels недоступне) | [docs/img/lab6-labels.png](docs/img/lab6-labels.png) |
+| 2 | Board по Assignee | [docs/img/lab6-workload.png](docs/img/lab6-workload.png) |
+| 3 | Board по Labels | [docs/img/lab6-areas.png](docs/img/lab6-areas.png) |
+| 4 | Velocity report | [docs/img/lab6-velocity.png](docs/img/lab6-velocity.png) |
+| 5 | Details → Default assignee | [docs/img/lab6-default-assignee.png](docs/img/lab6-default-assignee.png) |
+
 
 ---
 
